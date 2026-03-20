@@ -6,7 +6,6 @@ permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2021-03-15
 venue: 'International Journal of Mechanical Sciences, Elsevier BV.'
-# slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://doi.org/10.1016/j.ijmecsci.2020.106205'
 citation: 'F. Agnelli, P. Margerit, P. Celli, C. Daraio, A. Constantinescu. (2021). &quot;Systematic two-scale image analysis of extreme deformations in soft architectured sheets.&quot; <i>Int. J. Mech. Sci. 1</i>. 1(2).'
 ---

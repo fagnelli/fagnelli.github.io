@@ -1,17 +1,19 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to my personal webpage!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+I am a postdoctoral researcher in the [M2DO laboratory](https://m2do.ucsd.edu) at UC San Diego, working with Prof. Alicia H. Kim. Prior to that, I was a Mitacs Accelerate postdoctoral researcher at the McGill University, working in the [Architected Metamaterials Group](https://pasinigroup.mcgill.ca) led by Prof. Damiano Pasini. I did my Ph.D. at [Laboratoire de Mécanique des Solides](https://lms.ip-paris.fr/), École polytechnique in France, under the supervision of Dr. Andrei Constantinescu.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+My research background is mainly computational solid mechanics and computational material sciences. My current research project, in collaboration with LG Energy Solutions, is concerned with the multiphysics and multiscale modeling of solid-state Lithium ion batteries, to assist the design of future storage systems. Prior to that, I worked in collaboration with Autodesk Research on the generative design for thin sheet metal, to synthesize new shapes that meet the product’s requirements (performances, fabrication constraints).
 
-A data-driven personal website
+My thesis work dealt with the design cycle of mechanical architectured sheets obtained by 3D printing. You can download my thesis at the following [link](https://theses.hal.science/tel-03533041).
+
+<!-- A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
@@ -53,4 +55,4 @@ Example: editing a Markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->

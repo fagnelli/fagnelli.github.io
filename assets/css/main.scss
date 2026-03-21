@@ -41,3 +41,13 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* =========================
+   Custom overrides
+   ========================= */
+
+/* Justify only the page content */
+.page__content {
+  text-align: justify;
+  text-justify: inter-word;
+}

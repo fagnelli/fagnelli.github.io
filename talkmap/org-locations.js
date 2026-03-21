@@ -10,6 +10,11 @@ var addressPoints = [
     -122.4075201
   ],
   [
+    "Projet REDEMA (SATIE-LMS): Recalage 3D pour la d\u00e9formation des mat\u00e9riaux architectur\u00e9s<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
+    37.7879363,
+    -122.4075201
+  ],
+  [
     "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
     51.5074456,
     -0.1277653

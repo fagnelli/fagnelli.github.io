@@ -2,7 +2,7 @@
 title: "Systematic two-scale image analysis of extreme deformations in soft architectured sheets"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/2021-agnelli_IJMS
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2021-03-15
 venue: 'International Journal of Mechanical Sciences, Elsevier BV.'

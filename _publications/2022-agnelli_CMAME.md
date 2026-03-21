@@ -2,7 +2,7 @@
 title: "Design of thin micro-architectured panels with extension–bending coupling effects using topology optimization"
 collection: publications
 category: manuscripts
-permalink: https://doi.org/10.1007/s00161-019-00851-6
+permalink: /publication/2022-agnelli_CMAME
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2022-03-01
 venue: 'Computer Methods in Applied Mechanics and Engineering'

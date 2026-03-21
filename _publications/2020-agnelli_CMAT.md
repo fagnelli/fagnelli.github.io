@@ -2,7 +2,7 @@
 title: "Design and testing of 3D-printed micro-architectured polymer materials exhibiting a negative Poisson’s ratio"
 collection: publications
 category: manuscripts
-permalink: https://doi.org/10.1007/s00161-019-00851-6
+permalink: /publication/2020-agnelli_CMAT
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2019-11-20
 venue: 'Continuum Mechanics and Thermodynamics'

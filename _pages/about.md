@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+<img src='/images/2025_04_09_GEPA_Grad_SLAM 027.jpg'>
+
 I am a postdoctoral researcher in the [M2DO laboratory](https://m2do.ucsd.edu) at UC San Diego, working with Prof. Alicia H. Kim. Prior to that, I was a Mitacs Accelerate postdoctoral researcher at the McGill University, working in the [Architected Metamaterials Group](https://pasinigroup.mcgill.ca) led by Prof. Damiano Pasini. I did my Ph.D. at [Laboratoire de Mécanique des Solides](https://lms.ip-paris.fr/), École polytechnique in France, under the supervision of Dr. Andrei Constantinescu.
 
 My research background is mainly computational solid mechanics and computational material sciences. My current research project, in collaboration with LG Energy Solutions, is concerned with the multiphysics and multiscale modeling of solid-state Lithium ion batteries, to assist the design of future storage systems. Prior to that, I worked in collaboration with Autodesk Research on the generative design for thin sheet metal, to synthesize new shapes that meet the product’s requirements (performances, fabrication constraints).

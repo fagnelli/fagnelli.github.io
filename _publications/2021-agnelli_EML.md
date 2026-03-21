@@ -3,7 +3,6 @@ title: "Shape-shifting panel from 3D printed undulated ribbon lattice"
 collection: publications
 category: manuscripts
 permalink: /publication/2021-agnelli_EML
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2021-01-01
 venue: 'Extreme Mechanics Letters'
 paperurl: 'https://doi.org/10.1016/j.eml.2020.101089'

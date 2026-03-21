@@ -33,8 +33,17 @@
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "École polytechnique",
+      "area": "Ph.D in Mechanical Engineering",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "2021",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "École Normale Supérieure Paris-Saclay",
+      "area": "M.S. in Jekyll",
       "studyType": "",
       "startDate": "",
       "endDate": "2018",
@@ -42,20 +51,11 @@
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "École Normale Supérieure Paris-Saclay",
+      "area": "B.S. and M.S. in Mechanical Engineering",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "startDate": "2014",
+      "endDate": "2017",
       "gpa": null,
       "courses": []
     }

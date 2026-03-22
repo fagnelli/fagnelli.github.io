@@ -11,13 +11,14 @@ redirect_from:
 
 ## Education
 
-  #### École polytechnique
-* Ph.D in Mechanical Engineering, École polytechnique, 2021
-* M.S. in Mechanical Engineering, École Normale Supérieure Paris-Saclay, 2017
-* B.S. and M.S. in Mechanical Engineering, École Normale Supérieure Paris-Saclay, 2014 -- 2017
+* <b>École polytechnique, Institut Polytechnique de Paris</b>, Palaiseau, France
+  * Ph.D in Mechanical Engineering <span style="float:right;">2021</span>
+* <b>École Normale Supérieure Paris-Saclay, Université Paris-Saclay</b>, Cachan, France
+  * M.S., Materials and Engineering Sciences in Paris (MAGIS),<span style="float:right;">2017</span>
+  * B.S. and M.S. in Mechanical Engineering, <span style="float:right;">2014 - 2017</span>
 
-Work experience
-======
+## Work experience
+
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
   * Duties includes: Updates and improvements to template

@@ -11,9 +11,10 @@ redirect_from:
 
 ## Education
 
+  #### École polytechnique
 * Ph.D in Mechanical Engineering, École polytechnique, 2021
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Mechanical Engineering, École Normale Supérieure Paris-Saclay, 2017
+* B.S. and M.S. in Mechanical Engineering, École Normale Supérieure Paris-Saclay, 2014 -- 2017
 
 Work experience
 ======

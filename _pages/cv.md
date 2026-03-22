@@ -11,15 +11,15 @@ redirect_from:
 
 ## Education
 
-* <b>École polytechnique, Institut Polytechnique de Paris</b> | Palaiseau, France
+* <b>École polytechnique, Institut Polytechnique de Paris</b>, Palaiseau, France
   * Ph.D in Mechanical Engineering <span style="float:right;">2021</span>
-* <b>École Normale Supérieure Paris-Saclay, Université Paris-Saclay</b> | Cachan, France
+* <b>École Normale Supérieure Paris-Saclay, Université Paris-Saclay</b>, Cachan, France
   * M.S., Materials and Engineering Sciences in Paris (MAGIS),<span style="float:right;">2017</span>
   * B.S. and M.S. in Mechanical Engineering, <span style="float:right;">2014 - 2017</span>
 
 ## Work experience
 
-* <b>University of California, San Diego (UC San Diego)</b> | La Jolla, (CA) USA
+* <b>University of California, San Diego (UC San Diego)</b>, La Jolla, (CA) USA
   * <b>Postdoctoral Researcher</b><span style="float:right;">March 2024 - February 2026</span>
   
     * Coordinated the development of a multiscale model (FEniCSx) to simulate charge–discharge response of solid-state battery cells (electro-chemo-mechanics coupling).
@@ -29,7 +29,7 @@ redirect_from:
 
     Supervisor: Prof. H. Alicia Kim, Jacobs Scholar Chair Professor, UC San Diego
 
-* <b>McGill University</b> and <b>Autodesk Research</b> | Montréal, (QC) Canada
+* <b>McGill University</b> and <b>Autodesk Research</b>, Montréal, (QC) Canada
   * <b>Mitacs Accelerate Postdoctoral Researcher</b><span style="float:right;">May 2022 - December 2023</span>
     *	Developed a geometry solver able to synthesize, for a given design space, thin shell structures that meet performance and manufacturing requirements. Application of these generative algorithms for the design of structural parts to design automotive parts. 
     * Investigations important for Autodesk, global leader in the BIM, CAD and CAM sectors, for the integration into Fusion 360 to foster the design potential of their users.
@@ -38,7 +38,7 @@ redirect_from:
     Supervisor: Prof. Damiano Pasini
 
 
-* <b>Laboratoire de Mécanique des Solides, CNRS, École polytechnique</b> | Palaiseau, France
+* <b>Laboratoire de Mécanique des Solides, CNRS, École polytechnique</b>, Palaiseau, France
   * <b>Ph.D candidate</b><span style="float:right;">October 2018 - December 2021</span>
     * Developed « level set » topology optimization algorithms, coupled to multiscale analyses for the generation of architectured plates with programmable elastic properties. 
     * Used the 3D printing facilities — polymers (FFF, SLA) and metals (DED) — to fabricate specimen from the obtained designs. 
@@ -47,14 +47,14 @@ redirect_from:
   
     Supervisor: Dr. Andrei Constantinescu
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
 Publications
 ======

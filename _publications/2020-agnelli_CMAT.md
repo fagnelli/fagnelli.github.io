@@ -10,4 +10,7 @@ bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
 citation: 'F. Agnelli, A. Constantinescu, G. Nika. (2020). "Design and testing of 3D-printed micro-architectured polymer materials exhibiting a negative Poisson’s ratio." <i>Continuum Mech. Thermodyn.</i> 32, 433–449.'
 ---
 
+
+
+
 Test.

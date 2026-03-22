@@ -12,10 +12,10 @@ redirect_from:
 ## Education
 
 * <b>École polytechnique, Institut Polytechnique de Paris</b>, Palaiseau, France
-  * Ph.D in Mechanical Engineering <span style="float:right;">2021</span>
+  * Ph.D in Mechanical Engineering<span style="float:right;">2021</span>
 * <b>École Normale Supérieure Paris-Saclay, Université Paris-Saclay</b>, Cachan, France
-  * M.S., Materials and Engineering Sciences in Paris (MAGIS),<span style="float:right;">2017</span>
-  * B.S. and M.S. in Mechanical Engineering, <span style="float:right;">2014 - 2017</span>
+  * M.S., Materials and Engineering Sciences in Paris (MAGIS)<span style="float:right;">2017</span>
+  * B.S. and M.S. in Mechanical Engineering<span style="float:right;">2014 - 2017</span>
 
 ## Work experience
 
@@ -40,7 +40,7 @@ redirect_from:
 
 * <b>Laboratoire de Mécanique des Solides, CNRS, École polytechnique</b>, Palaiseau, France
   * <b>Ph.D candidate</b><span style="float:right;">October 2018 - December 2021</span>
-    * Developed « level set » topology optimization algorithms, coupled to multiscale analyses for the generation of architectured plates with programmable elastic properties. 
+    * Developed « level set » topology optimization algorithms (FreeFEM), coupled to multiscale analyses for the generation of architectured plates with programmable elastic properties. 
     * Used the 3D printing facilities — polymers (FFF, SLA) and metals (DED) — to fabricate specimen from the obtained designs. 
     * Performed mechanical testing with full-field measurements via a co-developed Digital image Correlation (DIC) tool.
     * <b>Visiting researcher</b> in the Daraio Group, Division of Engineering and Applied Science, California Institute of Technology (Caltech), Pasadena, (CA) USA (February 2019).

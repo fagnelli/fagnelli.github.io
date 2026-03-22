@@ -3,6 +3,7 @@ title: "Design of thin micro-architectured panels with extension–bending coupl
 collection: publications
 category: manuscripts
 permalink: /publication/2022-agnelli_CMAME
+excerpt: 
 date: 2022-03-01
 venue: 'Computer Methods in Applied Mechanics and Engineering'
 paperurl: 'https://doi.org/10.1016/j.cma.2021.114496'

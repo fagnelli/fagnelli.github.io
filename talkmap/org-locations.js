@@ -43,10 +43,5 @@ var addressPoints = [
     "Level Set Topology Optimization with Electro-Chemo-Mechanical Modeling for Designing Lithium-Ion Battery Cells<br />16th World Congress on Structural and Multidisciplinary Optimization; Kobe, Japan",
     34.6932379,
     135.1943764
-  ],
-  [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
   ]
 ];

@@ -5,7 +5,7 @@ category: seminar
 type: "Invited talk"
 permalink: /talks/2024-01-30-seminaire_lma
 excerpt: ' '
-#venue: "Séminaire"
+venue: #"Séminaire"
 paperurl: https://laboratoire-mecanique-acoustique.fr/actualites/1182-approches-d-optimisation-topologique-avec-surfaces-de-niveaux-pour-...
 date: 2024-01-30
 location: "Laboratoire de Mécanique et d'Acoustique (LMA), Centrale Méditerranée, Marseille, France"

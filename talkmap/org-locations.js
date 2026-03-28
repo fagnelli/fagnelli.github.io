@@ -10,6 +10,11 @@ var addressPoints = [
     -123.113952
   ],
   [
+    "Conception de panneaux p\u00e9riodiques 3D imprimables minces \u00e0 couplage extension \u2013 flexion par optimisation de formes<br />up-comech2021: e-Workshop on design and analysis of non-classical architectured materials; Online",
+    43.5904719,
+    3.8595132
+  ],
+  [
     "Homogenisation bounds for micro-architected polymer materials with extreme mechanical properties<br />APS March Meeting; Boston, (MA) USA",
     42.3588336,
     -71.0578303

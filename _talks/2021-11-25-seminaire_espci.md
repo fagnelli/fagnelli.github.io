@@ -1,12 +1,11 @@
 ---
-title: "Conception de panneaux périodiques 3D imprimables minces à couplage extension – flexion par optimisation de formes"
+title: "Shape shifting thin panels from 3D printed undulated ribbon lattice"
 collection: talks
 category: seminar
 type: "Invited talk"
-permalink: /talks/2021-11-25-club_cast3m
+permalink: /talks/2021-11-25-seminaire_espci
 excerpt: ' '
-venue: "Séminaire café"
-paperurl: 'https://up-comech2021.sciencesconf.org/'
+venue: "Séminaire Café"
 date: 2021-11-25
 location: "Laboratoire Physique et Mécanique des Milieux Hétérogènes (PMMH), ESPCI Université PSL, Paris, France"
 ---

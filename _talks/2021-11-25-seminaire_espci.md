@@ -2,12 +2,12 @@
 title: "Shape shifting thin panels from 3D printed undulated ribbon lattice"
 collection: talks
 category: seminar
-type: "Invited talk"
+type: "Invited talk (Séminaire Café)"
 permalink: /talks/2021-11-25-seminaire_espci
 excerpt: ' '
-venue: "Séminaire Café"
+venue: "Laboratoire Physique et Mécanique des Milieux Hétérogènes (PMMH), ESPCI Université PSL"
 date: 2021-11-25
-location: "Laboratoire Physique et Mécanique des Milieux Hétérogènes (PMMH), ESPCI Université PSL, Paris, France"
+location: "Paris, France"
 ---
 
 ### Abstract

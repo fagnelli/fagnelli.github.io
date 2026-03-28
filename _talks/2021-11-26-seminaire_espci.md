@@ -1,14 +1,14 @@
 ---
-title: "3D printed shape-shifting panels from undulated ribbon lattice"
+title: "Conception de panneaux périodiques 3D imprimables minces à couplage extension – flexion par optimisation de formes"
 collection: talks
-category: workshop
-type: "Talk"
-permalink: /talks/2021-04-09-up-comech
+category: seminar
+type: "Invited talk"
+permalink: /talks/2021-11-25-club_cast3m
 excerpt: ' '
-venue: "up-comech2021: e-Workshop on design and analysis of non-classical architectured materials"
+venue: "Séminaire café"
 paperurl: 'https://up-comech2021.sciencesconf.org/'
-date: 2021-04-09
-location: "Online"
+date: 2021-11-25
+location: "Laboratoire Physique et Mécanique des Milieux Hétérogènes (PMMH), ESPCI Université PSL, Paris, France"
 ---
 
 ### Abstract

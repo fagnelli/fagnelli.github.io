@@ -77,9 +77,9 @@ Teaching
 Service and leadership
 ======
 * Reviewer for scientific journals
-  * Structural and Multidisciplinary Optimization, Springer<span style="float:right;">since 2023</span>
+  * Structural and Multidisciplinary Optimization, Springer<span style="float:right;">since 2023</span>  
     Journal Impact Factor (2024): 4.0
-  * Extreme Mechanics Letters, Elsevier B.V.<span style="float:right;">since 2019</span>
+  * Extreme Mechanics Letters, Elsevier B.V.<span style="float:right;">since 2019</span>  
     Journal Cite Score: 7.5 • Journal Impact Factor: 4.728 • Acceptance rate: 30%
 * Scientific Dissemination
   * Fête de la Science, École polytechnique, Palaiseau, France<span style="float:right;">october 2018</span>

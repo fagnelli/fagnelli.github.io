@@ -17,8 +17,8 @@ main:
   - title: "Research"
     url: /research/
 
-  - title: "Research2.0"
-    url: /research2/
+  # - title: "Research2.0"
+  #   url: /research2/
 
   - title: "Publications"
     url: /publications/

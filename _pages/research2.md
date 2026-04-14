@@ -5,7 +5,7 @@ permalink: /research2/
 author_profile: true
 ---
 
-# Level set topology optimization for the design of metamaterials
+## Level set topology optimization for the design of metamaterials
 
 Present day digitally controlled manufacturing techniques and in particular 3D printing permit the rapid processing of three-dimensional objects, imparted with a microarchitecture of unprecedented complexity, for several types of materials (e.g., metal alloys, ceramics, polymers), at different scales (from microscopic objects to 3D printed houses) and at a continuously decreasing cost. The ability to control the microstructure’s geometry via the manufacturing process offers exciting opportunities to further program the materials’ response. Starting from elementary arrangements of material in a designed representative cell, complex structures can be obtained either by periodic tessellation or by spreading the cells to obtain a desired macroscopic distribution of properties. Yet, the high expectations of printing technologies and of achitectured sheets’ structural applications raise a series of challenges in their design:
 
@@ -21,7 +21,7 @@ Periodic sheets are characterized by a thickness, and a elementary pattern lengt
 
 The two above configurations offer distinct performances that can be harnessed in different application. Therefore, the investigations on their design and characterization have been conducted in the two separate sections, that can be read independently.
 
-## Design of 3D printable architectured thin sheet materials (r ≪ 1)
+### Design of 3D printable architectured thin sheet materials (r ≪ 1)
 
 The first aspect of the thesis focused on the systematic design cycle for several auxetic thin sheet materials. The term auxetic indicates materials with a negative Poisson's ratio, i.e. materials which tend to expand transversely to an applied uniaxial stretching load and vice versa. This property is obtained from deformation mechanisms at the level of the internal microstructure when loaded. Moreover, it is often associated to other interesting properties, such as enhanced stiffness and energy absorption capabilities, indentation resistance, fracture toughness, making auxetic materials suitable in targeted applications [10].
 
@@ -29,7 +29,7 @@ A topology optimization algorithm involving the level set method [11], the class
 
 The space of admissible elastic tensors associated to two-dimensional microstructures carrying the orthotropic material symmetry is identified using the bounds of Milton and Kohn [12]. The analysis reveals that it is possible to attain shapes with orthotropic symmetri es exhibiting an effective Poisson's ratio lower than -1 in one direction (Fig. 2).
 
-## Design of 3D printable thin composite panels (r ~ 1)
+### Design of 3D printable thin composite panels (r ~ 1)
 
 The second part is devoted to the study of composite panels featuring an extension–bending coupling mechanism, which can be harnessed to manufacture panels that change shape. Materials that change their shape in response to external stimuli open up new prospects for efficient and versatile design and shaping of three-dimensional objects.
 

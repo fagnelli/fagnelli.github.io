@@ -16,11 +16,12 @@ Present day additive manufacturing techniques permit the rapid processing of thr
 <p style="text-align: justify;">
 The works of my thesis propose a systematic procedure to synthesize the elementary cell for periodic architectured thin sheets. This study is placed within the framework of materials with linear elastic behaviors and relies on asymptotic homogenization, and topology optimization with the level set method. Periodic sheets are characterized by a thickness, and a elementary pattern length (denoted by period), both being small with respect to the other characteristic dimensions. For a given material distribution inside the representative cell, the macroscopic mechanical response can be numerically approximated using asymptotic homogenization. The macroscopic behavior associated to the sheets response is obtained according to the cell's aspect ratio, i.e. the ratio r between the thickness and the period (Fig. 1). More specifically:
 </p>
-- When the thickness of the sheet is small with respect to the period (r ≪ 1), the unit cell features a two-dimensional pattern, hence the characterization of the in-plane behavior is sufficient to describe the sheets' three-dimensional response. In particular, the flexural response can be retrieved from the in-plane behavior.
+- <p style="text-align: justify;">When the thickness of the sheet is small with respect to the period (r ≪ 1), the unit cell features a two-dimensional pattern, hence the characterization of the in-plane behavior is sufficient to describe the sheets' three-dimensional response. In particular, the flexural response can be retrieved from the in-plane behavior.</p>
 - When the thickness is comparable to the period (r ~ 1), the unit cell is a cuboid featuring a volume material distribution, hence the in-plane and out of the plane response can be programmed independently. Moreover, an extension–bending coupling can appear during the deformation. Patterned sheets featuring these characteristics are referred to as panels.
 
+<p style="text-align: justify;">
 The two above configurations offer distinct performances that can be harnessed in different application. Therefore, the investigations on their design and characterization have been conducted in the two separate sections, that can be read independently.
-
+</p>
 
 ### Design of 3D printable architectured thin sheet materials (r ≪ 1)
 

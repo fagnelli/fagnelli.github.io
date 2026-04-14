@@ -17,7 +17,7 @@ The works of my thesis propose a systematic procedure to synthesize the elementa
 - <p style="text-align: justify;">When the thickness of the sheet is small with respect to the period (r ≪ 1), the unit cell features a two-dimensional pattern, hence the characterization of the in-plane behavior is sufficient to describe the sheets' three-dimensional response. In particular, the flexural response can be retrieved from the in-plane behavior.</p>
 - <p style="text-align: justify;">When the thickness is comparable to the period (r ~ 1), the unit cell is a cuboid featuring a volume material distribution, hence the in-plane and out of the plane response can be programmed independently. Moreover, an extension–bending coupling can appear during the deformation. Patterned sheets featuring these characteristics are referred to as panels.</p>
 
-<img src='/images/architectured_sheet.png'>
+<img src='/images/architectured-sheet.png'>
 
 <p style="text-align: justify;">
 The two above configurations offer distinct performances that can be harnessed in different application. Therefore, the investigations on their design and characterization have been conducted in the two separate sections, that can be read independently.

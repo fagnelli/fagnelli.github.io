@@ -15,10 +15,7 @@ main:
   #   url: /cv-json/
   
   - title: "Research"
-    url: /research2/
-
-  #- title: "Research2.0"
-  #  url: /research2/
+    url: /research/
 
   - title: "Publications"
     url: /publications/

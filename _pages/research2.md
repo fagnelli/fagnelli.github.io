@@ -7,7 +7,7 @@ author_profile: true
 
 <div class="right-toc">
   <div class="right-toc-title">ON THIS PAGE</div>
-  <a href="#ebc-metamaterialsx">Materials with coupled responses</a>
+  <a href="#ebc-metamaterials">Materials with coupled responses</a>
   <a href="#to-metamaterials">Level set topology optimization for the design of metamaterials</a>
 </div>
 

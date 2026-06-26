@@ -7,10 +7,11 @@ author_profile: true
 
 <div class="right-toc">
   <div class="right-toc-title">ON THIS PAGE</div>
-  <a href="#`level-set-topology-optimization-for-the-design-of-metamaterials">Level set topology optimization for the design of metamaterials</a>
+  <a href="#to-metamaterials">Level set topology optimization for the design of metamaterials</a>
 </div>
 
 ## Level set topology optimization for the design of metamaterials
+{: #metamaterials}
 
 <p style="text-align: justify;"> Present day additive manufacturing techniques permit the rapid processing of three-dimensional objects, imparted with a microarchitecture of unprecedented complexity, for several types of materials (e.g., metal alloys, ceramics, polymers), at different scales and at a continuously decreasing cost. The ability to control the microstructure's geometry via the manufacturing process offers exciting opportunities to further program the materials' response. Starting from elementary arrangements of material in a designed representative cell, complex structures can be obtained either by periodic tessellation or by spreading the cells to obtain a desired macroscopic distribution of properties. Yet, the high expectations of printing technologies and of achitectured sheets' structural applications raise a series of challenges in their design: </p>
 - Optimal shape design, i.e., finding the material distribution (or pattern) yielding the desired set of properties;

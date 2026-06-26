@@ -9,6 +9,7 @@ author_profile: true
   <div class="right-toc-title">ON THIS PAGE</div>
   <a href="#ebc-metamaterials">Materials with coupled responses</a>
   <a href="#to-metamaterials">Level set topology optimization for the design of metamaterials</a>
+  <a href="#exp-characterization">Experimental characterization</a>
 </div>
 
 ## Materials with coupled responses
@@ -59,3 +60,11 @@ Building upon our previous work, we devise a topology optimization procedure to 
 The efficiency of the solution method is illustrated through four numerical examples where the designed shape gives an important extension–flexion coupling. The strain responses under tensile load are numerically evaluated on both the complete periodic panel and its homogenized twin plate. The results demonstrate that the simultaneous control of the in-plane, out-of-plane and their coupled behavior can transform a flat panel into a domed or saddle-shaped structure (Fig. 6). We note that the microstructure can be tailored can exhibit significant changes in curvature depending on the loading direction. Moreover, the obtained unit cells are elementary blocks to create directly 3D printable objects with shape morphing capabilities.
 
 [10] F. Wang, O. Sigmund et J. S. Jensen, «Design of materials with prescribed nonlinear properties,» Journal of the Mechanics and Physics of Solids, vol. 69, p. 156–174, September 2014.
+
+
+## Experimental characterization
+{:#exp-characterization}
+
+<img src='/images/graphical_abstract_rubbersheets.webp'>
+
+<p style="text-align: justify;"> The multi-scale nature of architectured materials raises the need for advanced experimental methods suitable for the identification of their effective properties, especially when their size is finite and they undergo extreme deformations. The present work demonstrates that state-of-the art image processing methods combined with numerical and analytical models provide a comprehensive quantitative description of these solids and their global behaviour, including the influence of the boundary conditions, of the manufacturing process, and of geometric and constitutive non-linearities. To this end, an adapted multi-scale digital image correlation analysis is used to track both elongations and rotations of particular features of the unit cell at the local and global (homogenized) scale of the material. This permits to observe with unprecedented clarity the strains for various unit cells in the structure and to detect global deformation patterns and heterogeneities of the homogenized strain distribution. This method is here demonstrated on elastic sheets undergoing extreme longitudinal and shear deformations. These experimental results are compared to non-linear finite element simulations, which are also used to evaluate the effects of manufacturing imperfections on the response. A skeletal representation of the architectured solid is then extracted from the experiments and used to create a purely-kinematic truss-hinge model that can accurately capture its behaviour. The analysis proposed in this work can be extended to guide the design of two-dimensional architectured solids featuring other regular, quasi-regular or graded patterns, and subjected to other types of loads.</p>

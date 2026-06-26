@@ -14,9 +14,9 @@ author_profile: true
 ## Materials with coupled responses
 {:#ebc-metamaterials}
 
-<img src='/images/graphical_abstract_panel.webp'>"
+<img src='/images/graphical_abstract_panel.webp'>
 
-<p style="text-align: justify;">Materials capable of changing shape in response to external stimuli are transforming the way engineers conceive adaptive structures. During my PhD, we developed a novel class of mechanical metamaterials that exhibit an extension–bending coupling (EBC), enabling flat panels to morph into complex three-dimensional shapes through controlled in-plane deformation.</p>
+<p style="text-align: justify;">Materials capable of changing shape in response to external stimuli are transforming the way engineers conceive adaptive structures. In collaboration with the Laboratoire de Mécanique des Solides (LMS) and Drahi-X, we developed a novel class of mechanical metamaterials that exhibit an extension–bending coupling (EBC), enabling flat panels to morph into complex three-dimensional shapes through controlled in-plane deformation.</p>
 
 <p style="text-align: justify;">These architected materials are built from a single constituent material arranged as a network of undulated ribbons. The deformations mechanisms of both single and connected undulated ribbons were analysed using the finite element method to explain the main features of the EBC mechanism. For a particular micro-structure of the proposed class, the complete elastic stiffness tensor was computed combining two-scale homogenization with Kirchhoff-Love plate theory. The range of achievable EBC ratio was then assessed with respect to the geometric parameters of the unit cell. To validate the concept, patterned specimens were manufactured using commercial fused filament fabrication (FFF) 3D printing and tested experimentally under finite strains.</p>
 
@@ -24,7 +24,7 @@ author_profile: true
 
 
 ## Level set topology optimization for the design of metamaterials
-{: #to-metamaterials}
+{:#to-metamaterials}
 
 <p style="text-align: justify;"> Present day additive manufacturing techniques permit the rapid processing of three-dimensional objects, imparted with a microarchitecture of unprecedented complexity, for several types of materials (e.g., metal alloys, ceramics, polymers), at different scales and at a continuously decreasing cost. The ability to control the microstructure's geometry via the manufacturing process offers exciting opportunities to further program the materials' response. Starting from elementary arrangements of material in a designed representative cell, complex structures can be obtained either by periodic tessellation or by spreading the cells to obtain a desired macroscopic distribution of properties. Yet, the high expectations of printing technologies and of achitectured sheets' structural applications raise a series of challenges in their design: </p>
 - Optimal shape design, i.e., finding the material distribution (or pattern) yielding the desired set of properties;

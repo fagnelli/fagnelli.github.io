@@ -51,3 +51,53 @@
   text-align: justify;
   text-justify: inter-word;
 }
+
+.page-with-toc {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 280px;
+  gap: 35px;
+}
+
+.right-toc {
+  position: sticky;
+  top: 90px;
+  align-self: start;
+  background: white;
+  border: 1px solid #ddd;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+}
+
+.right-toc-title {
+  background: #0d477a;
+  color: white;
+  font-weight: bold;
+  padding: 12px 16px;
+  font-size: 14px;
+}
+
+.right-toc a {
+  display: block;
+  padding: 12px 16px;
+  border-bottom: 1px solid #ddd;
+  font-size: 11px;
+  font-weight: bold;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: #666;
+}
+
+.right-toc a:hover {
+  color: #0d477a;
+  background: #f5f8fb;
+}
+
+@media (max-width: 1100px) {
+  .page-with-toc {
+    display: block;
+  }
+
+  .right-toc {
+    position: static;
+    margin-top: 30px;
+  }
+}

@@ -7,14 +7,18 @@ author_profile: true
 
 <div class="right-toc">
   <div class="right-toc-title">ON THIS PAGE</div>
-  <a href="#ebc-metamaterials">Materials with coupled responses</a>
+  <a href="#ebc-metamaterialsx">Materials with coupled responses</a>
   <a href="#to-metamaterials">Level set topology optimization for the design of metamaterials</a>
 </div>
 
 ## Materials with coupled responses
 {:#ebc-metamaterials}
 
-<p style="text-align: justify;">Materials that change their shape in response to external stimuli opens up new prospects for efficient and versatile design and shaping of three-dimensional objects. Here, we present a novel class of micro-structures exhibiting an extension-bending coupling (EBC) effect, that can be harnessed as an elementary building block for shape-shifting panels. They are built with a single material as a network of undulated ribbons. The deformations mechanisms of both single and connected undulated ribbons are analysed using the finite element method to explain the main features of the EBC mechanism. For a particular micro-structure of the proposed class, the complete elastic stiffness tensor is computed combining two-scale homogenization with Kirchhoff-Love plate theory. The range of achievable EBC ratio is then assessed with respect to the geometric parameters of the unit cell. Patterned specimens are manufactured using a commercial FFF Ultimaker 3D printer and are mechanically tested at finite strain up to 20%. The displacement measured by point tracking match the predictions from the finite element simulations and indicate that the structure maintain its properties at finite strain. Moreover, a tensile test load with point-like boundary is proposed to highlight exceptional out of plane displacement. We envision these structures to be leveraged in combination with responsive materials for the actuation of soft robots, compliant systems and reconfigurable structures, as alternatives to external mechanical motors, control systems and power devices.</p>
+<p style="text-align: justify;">Materials that change their shape in response to external stimuli open up new prospects for efficient and versatile design and shaping of three-dimensional objects. During my PhD, we conceived a novel class of micro-structures exhibiting an extension-bending coupling (EBC) effect, that can be harnessed as an elementary building block for shape-shifting panels. They are built with a single material as a network of undulated ribbons. The deformations mechanisms of both single and connected undulated ribbons were analysed using the finite element method to explain the main features of the EBC mechanism. For a particular micro-structure of the proposed class, the complete elastic stiffness tensor was computed combining two-scale homogenization with Kirchhoff-Love plate theory. The range of achievable EBC ratio was then assessed with respect to the geometric parameters of the unit cell.</p>
+
+<p style="text-align: justify;">Patterned specimens were manufactured using a commercial FFF Ultimaker 3D printer and mechanically tested at finite strain. We envision these structures to be leveraged in combination with responsive materials for the actuation of soft robots, compliant systems and reconfigurable structures, as alternatives to external mechanical motors, control systems and power devices.</p>
+
+<img src='/images/graphical_abstract_panel.webp'>"
 
 
 ## Level set topology optimization for the design of metamaterials

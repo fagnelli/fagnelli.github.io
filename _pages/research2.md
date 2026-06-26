@@ -7,7 +7,7 @@ author_profile: true
 
 <div class="right-toc">
   <div class="right-toc-title">ON THIS PAGE</div>
-  <a href="#Level-set-topology-optimization-for-the-design-of-metamaterials">Automated Material Modelling</a>
+  <a href="#`level-set-topology-optimization-for-the-design-of-metamaterials">Level set topology optimization for the design of metamaterials</a>
 </div>
 
 ## Level set topology optimization for the design of metamaterials

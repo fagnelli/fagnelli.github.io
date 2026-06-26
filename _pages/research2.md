@@ -40,3 +40,9 @@ Building upon our previous work, we devise a topology optimization procedure to 
 The efficiency of the solution method is illustrated through four numerical examples where the designed shape gives an important extension–flexion coupling. The strain responses under tensile load are numerically evaluated on both the complete periodic panel and its homogenized twin plate. The results demonstrate that the simultaneous control of the in-plane, out-of-plane and their coupled behavior can transform a flat panel into a domed or saddle-shaped structure (Fig. 6). We note that the microstructure can be tailored can exhibit significant changes in curvature depending on the loading direction. Moreover, the obtained unit cells are elementary blocks to create directly 3D printable objects with shape morphing capabilities.
 
 [10] F. Wang, O. Sigmund et J. S. Jensen, «Design of materials with prescribed nonlinear properties,» Journal of the Mechanics and Physics of Solids, vol. 69, p. 156–174, September 2014.
+
+
+<aside class="right-toc">
+  <div class="right-toc-title">ON THIS PAGE</div>
+  <a href="#Level-set-topology-optimization-for-the-design-of-metamaterials">Automated Material Modelling</a>
+</aside>
